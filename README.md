@@ -33,7 +33,9 @@ part 3: Texture Tiling
 
 Texture tiling was used to make the lava more tilled so it looked better. Shader uses the bump map with some tiling to be allowed to tile the specific way 
 
-Part 4:
+Part 4: Multi UVs
+
+Used to combine to fire textures together to create a unique texture of the 2 together.
 
 Part 5: Lighting
 
