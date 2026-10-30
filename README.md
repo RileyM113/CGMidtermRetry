@@ -1,6 +1,8 @@
 # CGMidtermRetry
 
 Lava texture used from https://3dtextures.me/2016/05/05/lava-002/
+Pillar texture - shutterstock.com/image-photo/pillar-texture-made-stone-2295198591
+Cracked ground texture - https://www.istockphoto.com/illustrations/cracks-in-the-ground-with-magma
 
 Part 1: Prototype
 
@@ -14,6 +16,7 @@ Part 2: Reflection
 
 
 <img width="668" height="144" alt="image" src="https://github.com/user-attachments/assets/68067cc6-ab0a-4cd6-bb4c-c46cabc8bf55" />
+
 Used the world reflection shader that was provided in class, added shininess to it to make it more shiny
 
 
@@ -28,7 +31,22 @@ Part 4:
 
 Part 5:
 
-Part 6:
+Part 6: General Purpose
+
+
+
+
+<img width="294" height="156" alt="image" src="https://github.com/user-attachments/assets/d838bcf0-8f44-4bc3-b308-2d08e9331f42" />
+
+
+
+
+
+<img width="368" height="262" alt="image" src="https://github.com/user-attachments/assets/2701c24b-9526-49ae-85fc-c920041645c4" />
+
+
+This shader is just a basic shader that allows you to add a texture and base color to it 
+
 
 Part 7: Custom Shader
 
