@@ -29,7 +29,16 @@ Texture tiling was used to make the lava more tilled so it looked better. Shader
 
 Part 4:
 
-Part 5:
+Part 5: Lighting
+
+
+
+
+
+<img width="113" height="101" alt="image" src="https://github.com/user-attachments/assets/6ea5700b-aaa9-4bcd-817a-9c561674a2f7" />
+
+Simple ambient lighting attached to player for when player takes damage/gets hit by something. 
+
 
 Part 6: General Purpose
 
