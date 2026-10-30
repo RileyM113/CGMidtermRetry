@@ -20,4 +20,4 @@ Part 7: Custom Shader
 
 <img width="329" height="249" alt="image" src="https://github.com/user-attachments/assets/00228b72-f08b-4204-bb17-fb496d1e6f62" />
 
-For this I made some sort of funky portal. Initially was going to try to make it look like a swirl like a real looking portal but was not working so just kind of messed around with time stuff in a twirl and had a weird outcome of it moving that I liked. 
+For this I made some sort of funky portal. Initially was going to try to make it look like a swirl like a real looking portal but was not working so just kind of messed around with time stuff in a twirl and had a weird outcome of it moving that I liked. Just kind of messed with random things till I liked and I think it turned out interesting.
