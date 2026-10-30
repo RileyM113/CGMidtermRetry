@@ -9,7 +9,13 @@ Part 1: Prototype
 <img width="606" height="298" alt="image" src="https://github.com/user-attachments/assets/f8bd252e-7359-4b6a-a82c-85d2611a2f0b" />
 
 
-Part 2:
+Part 2: Reflection
+
+
+
+<img width="668" height="144" alt="image" src="https://github.com/user-attachments/assets/68067cc6-ab0a-4cd6-bb4c-c46cabc8bf55" />
+Used the world reflection shader that was provided in class, added shininess to it to make it more shiny
+
 
 part 3: Texture Tiling
 
