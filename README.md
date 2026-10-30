@@ -6,6 +6,10 @@ Pillar texture - shutterstock.com/image-photo/pillar-texture-made-stone-22951985
 
 Cracked ground texture - https://www.istockphoto.com/illustrations/cracks-in-the-ground-with-magma
 
+Fire Texture 1 - https://texturelabs.org/textures/atmosphere_121/
+
+Fire Texture 2 - https://commons.wikimedia.org/wiki/File:Texture_Fire.jpg
+
 Part 1: Prototype
 
 
