@@ -2,11 +2,26 @@
 
 Lava texture used from https://3dtextures.me/2016/05/05/lava-002/
 
-Part 1:
+Part 1: Prototype
 
-Part 2:
 
-part 3:
+
+<img width="606" height="298" alt="image" src="https://github.com/user-attachments/assets/f8bd252e-7359-4b6a-a82c-85d2611a2f0b" />
+
+
+Part 2: Reflection
+
+
+
+<img width="668" height="144" alt="image" src="https://github.com/user-attachments/assets/68067cc6-ab0a-4cd6-bb4c-c46cabc8bf55" />
+Used the world reflection shader that was provided in class, added shininess to it to make it more shiny
+
+
+part 3: Texture Tiling
+
+
+<img width="343" height="243" alt="image" src="https://github.com/user-attachments/assets/4a05a6a2-d18b-4363-a430-85e81907b71f" />
+
 Texture tiling was used to make the lava more tilled so it looked better. Shader uses the bump map with some tiling to be allowed to tile the specific way 
 
 Part 4:
