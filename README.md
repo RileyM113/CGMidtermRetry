@@ -6,7 +6,11 @@ Part 1:
 
 Part 2:
 
-part 3:
+part 3: Texture Tiling
+
+
+<img width="343" height="243" alt="image" src="https://github.com/user-attachments/assets/4a05a6a2-d18b-4363-a430-85e81907b71f" />
+
 Texture tiling was used to make the lava more tilled so it looked better. Shader uses the bump map with some tiling to be allowed to tile the specific way 
 
 Part 4:
