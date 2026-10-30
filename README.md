@@ -1,8 +1,14 @@
 # CGMidtermRetry
 
 Lava texture used from https://3dtextures.me/2016/05/05/lava-002/
-Pillar texture - shutterstock.com/image-photo/pillar-texture-made-stone-2295198591
+
+Pillar texture - shutterstock.com/image-photo/pillar-texture-made-stone-2295198591 
+
 Cracked ground texture - https://www.istockphoto.com/illustrations/cracks-in-the-ground-with-magma
+
+Fire Texture 1 - https://texturelabs.org/textures/atmosphere_121/
+
+Fire Texture 2 - https://commons.wikimedia.org/wiki/File:Texture_Fire.jpg
 
 Part 1: Prototype
 
