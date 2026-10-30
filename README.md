@@ -2,7 +2,12 @@
 
 Lava texture used from https://3dtextures.me/2016/05/05/lava-002/
 
-Part 1:
+Part 1: Prototype
+
+
+
+<img width="606" height="298" alt="image" src="https://github.com/user-attachments/assets/f8bd252e-7359-4b6a-a82c-85d2611a2f0b" />
+
 
 Part 2:
 
